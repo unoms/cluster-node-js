@@ -1,4 +1,4 @@
-#Example of using cluster module
+# Example of using cluster module
 
 The cluster module forks of new instances of the same application and automatically distributes incoming connections by using round-robin algorithm.
 
